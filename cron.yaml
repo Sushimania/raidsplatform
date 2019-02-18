@@ -1,0 +1,4 @@
+cron:
+  - description: "10분마다 expire된 hashrate 삭제"
+    url: /api/deleteexpirehashrate
+    schedule: every 10 minutes synchronized

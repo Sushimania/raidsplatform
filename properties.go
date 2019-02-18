@@ -1,0 +1,10 @@
+package main
+
+const (
+	EOS_NODEJS_SERVER_URL = "http://www.raidsplatform.com"
+
+	BASIC_AUTH_KEY = "BASIC_AUTH_KEY"
+	BLAKE2B_SALT = "BLAKE2B_SALT"
+	EOS_HMAC_SECURE_KEY = "EOS_HMAC_SECURE_KEY"
+	JWT_SECURE_KEY = "JWT_SECURE_KEY"
+)
